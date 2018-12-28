@@ -10,5 +10,49 @@ body{
    display: block;
 } 
 
+.logo-title{
+   font-family:  'Satisfy', cursive; 
+    font-size:25px;
+     position: absolute;
+     top: 0px;
+     left:0;
+     color:blue;
+}
+
+.sub-title{
+   font-family:  'Satisfy', cursive; 
+   font-size:12px;
+    position: absolute;
+    top:50px;
+}
+.topButtons{
+   position: absolute;
+   right: 10px;
+   top:10px;
+   background: blue;
+   color: white;
+   box-shadow: 0 2 0 2;
+   margin:0;
+   padding: 8px 12px 8px 12px;
+   font-family: 'Calibri';
+   font-size: 17px;
+   width:90px;
+   
+}
+
+.topButtons1{
+   position: absolute;
+   right: 110px;
+   top:10px;
+   background: blue;
+   color: white;
+   box-shadow: 0 2 0 2;
+   margin:0;
+   padding: 8px 12px 8px 12px;
+   font-family: 'Calibri';
+   font-size: 17px;
+   width:90px;
+}
+
 /* Set a style for the rest of the elements besides the header elements on the index.html page */
                                  
