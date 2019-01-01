@@ -16,6 +16,7 @@ body{
      position: fixed;
      top: 0px;
      left:0px;
+     margin:0px;
      color:blue;
 }
 
@@ -23,7 +24,7 @@ body{
    font-family:  'Satisfy', cursive; 
    font-size:12px;
     position: absolute;
-    top:50px;
+    top:30px;
 }
 .topButtons{
    
@@ -46,10 +47,12 @@ body{
 .postButtons{
    position: fixed;
    top: 50%;
-   left: 50%;
+   left: 40%;
+
 }
  
 .create-buttons{
+   
    background: orange;
    margin:10px;
    padding: 8px;
