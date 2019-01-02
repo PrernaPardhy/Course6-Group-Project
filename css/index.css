@@ -16,15 +16,15 @@ body{
      position: fixed;
      top: 0px;
      left:0px;
-     margin:0px;
      color:blue;
+     margin: 0px;
 }
 
 .sub-title{
    font-family:  'Satisfy', cursive; 
    font-size:12px;
     position: absolute;
-    top:30px;
+    top:40px;
 }
 .topButtons{
    
@@ -48,11 +48,9 @@ body{
    position: fixed;
    top: 50%;
    left: 40%;
-
 }
  
 .create-buttons{
-   
    background: orange;
    margin:10px;
    padding: 8px;
