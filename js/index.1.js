@@ -1,4 +1,5 @@
 function funSignUp(){
+    alert("hii");
     
     document.getElementById('myModal').style.display='block';
 }
@@ -6,3 +7,4 @@ function funSignUp(){
 function funSignIn(){
     document.getElementById('myModal1').style.display='block';
 }
+
